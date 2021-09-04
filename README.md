@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning [arch linux](archlinux.org)
 - 💞️ I’m looking to collaborate on tools that make life better.
 - 📫 You can  reach me via github.com+public@j.hoschi-it.de
+- 💻 My personal collection of software and config files can be found [on my gitea instance](app.hoschi-it.de/gitea), feel free to browse.
 
 <!---
 hoschi-it/hoschi-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
