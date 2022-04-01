@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning [arch linux](https://archlinux.org)
 - 💞️ I’m looking to collaborate on tools that make life better.
 - 📫 You can  reach me via github.com+public@j.hoschi-it.de
-- 💻 My personal collection of software and config files can be found [on my gitea instance](https://app.hoschi-it.de/gitea), feel free to browse.
+- 💻 Moved my personal collection of software and config files to [my gitea instance](https://app.hoschi-it.de/gitea), feel free to browse.
